@@ -1,0 +1,19 @@
+# Archivos y carpetas de Python
+__pycache__/
+*.py[cod]
+
+# Configuración del editor
+.vscode/
+*.code-workspace
+
+# Archivos de logs y backups
+*.log
+*.bak
+
+# Entornos virtuales
+venv/
+.env/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
